@@ -39,7 +39,7 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 
 The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows. From each window, a vector of features was obtained by calculating variables from the time and frequency domain.
 
-## Getting data and cleaning process described in run_analysis.R
+## Getting data and cleaning process is described in run_analysis.R
 
 ### 1. Merges the training and the test sets to create one data set.
 ### 2. Extracts only the measurements on the mean and standard deviation for each measurement.
