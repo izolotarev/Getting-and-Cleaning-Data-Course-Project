@@ -2,12 +2,10 @@
 
 ##SUBJECT FILES
 test/subject_test.txt
-
 train/subject_train.txt
 
 ##ACTIVITY FILES
 test/X_test.txt
-
 train/X_train.txt
 
 ##DATA FILES
